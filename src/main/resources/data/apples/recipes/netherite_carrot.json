@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "apples:diamond_carrot"
+  },
+  "addition": {
+    "item": "apples:netherite_nugget"
+  },
+  "result": {
+    "item": "apples:netherite_carrot"
+  }
+}

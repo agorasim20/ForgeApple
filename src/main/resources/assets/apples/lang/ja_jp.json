@@ -1,0 +1,32 @@
+{ 
+    "item.apples.coal_apple": "石炭リンゴ", 
+    "item.apples.copper_apple": "銅リンゴ", 
+    "item.apples.lapis_apple": "ラピスラズリリンゴ", 
+    "item.apples.emerald_apple": "エメラルドリンゴ", 
+    "item.apples.obsidian_apple": "黒曜石リンゴ", 
+    "item.apples.diamond_apple": "ダイヤモンドリンゴ", 
+    "item.apples.netherite_apple": "ネザライトリンゴ", 
+    "item.apples.iron_apple": "鉄リンゴ", 
+    "item.apples.creative_apple": "クリエイティブリンゴ", 
+
+    "item.apples.coal_carrot": "石炭ニンジン", 
+    "item.apples.copper_carrot": "銅ニンジン", 
+    "item.apples.lapis_carrot": "ラピスラズリキャロット", 
+    "item.apples.emerald_carrot": "エメラルドニンジン", 
+    "item.apples.obsidian_carrot": "黒曜石ニンジン", 
+    "item.apples.diamond_carrot": "ダイヤモンドキャロット", 
+    "item.apples.netherite_carrot": "ネザライトニンジン", 
+    "item.apples.iron_carrot": "鉄ニンジン", 
+    "item.apples.creative_carrot": "クリエイティブニンジン", 
+
+    "item.apples.coal_nugget": "石炭の欠片", 
+    "item.apples.copper_nugget": "銅の欠片", 
+    "item.apples.lapis_nugget": "ラピスラズリの欠片", 
+    "item.apples.emerald_nugget": "エメラルドの欠片", 
+    "item.apples.obsidian_nugget": "黒曜石の欠片 ", 
+    "item.apples.diamond_nugget": "ダイヤモンドの欠片 ", 
+    "item.apples.netherite_nugget": "ネザライトの欠片", 
+
+    "itemGroup.general": "Apples & Carrots Mod" 
+
+} 

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "apples:coal_nugget"
+      },
+      "X": {
+        "item": "minecraft:carrot"
+      }
+    },
+    "result": {
+      "item": "apples:coal_carrot"
+    }
+}

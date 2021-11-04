@@ -1,0 +1,31 @@
+{
+    "item.apples.coal_apple": "Coal Apple",
+    "item.apples.copper_apple": "Copper Apple",
+    "item.apples.lapis_apple": "Lapis Apple",
+    "item.apples.emerald_apple": "Emerald Apple",
+    "item.apples.obsidian_apple": "Obsidian Apple",
+    "item.apples.diamond_apple": "Diamond Apple",
+    "item.apples.netherite_apple": "Netherite Apple",
+    "item.apples.iron_apple": "Iron Apple",
+    "item.apples.creative_apple": "Creative Apple",
+
+    "item.apples.coal_carrot": "Coal Carrot",
+    "item.apples.copper_carrot": "Copper Carrot",
+    "item.apples.lapis_carrot": "Lapis Carrot",
+    "item.apples.emerald_carrot": "Emerald Carrot",
+    "item.apples.obsidian_carrot": "Obsidian Carrot",
+    "item.apples.diamond_carrot": "Diamond Carrot",
+    "item.apples.netherite_carrot": "Netherite Carrot",
+    "item.apples.iron_carrot": "Iron Carrot",
+    "item.apples.creative_carrot": "Creative Carrot",
+
+    "item.apples.coal_nugget": "Coal Nugget",
+    "item.apples.copper_nugget": "Copper Nugget",
+    "item.apples.lapis_nugget": "Lapis Nugget",
+    "item.apples.emerald_nugget": "Emerald Nugget",
+    "item.apples.obsidian_nugget": "Obsidian Nugget",
+    "item.apples.diamond_nugget": "Diamond Nugget",
+    "item.apples.netherite_nugget": "Netherite Nugget",
+    
+    "itemGroup.general": "Apples & Carrots Mod"
+}

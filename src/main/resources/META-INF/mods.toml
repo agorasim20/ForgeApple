@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="MIT"
+
+[[mods]]
+modId="apples"
+version="1.1"
+displayName="Apples & Carrots"
+
+logoFile="icon.png"
+authors="agorasim20"
+description='''
+New Special Apples and Carrots with effects
+
+Hope you enjoy this adventure!
+<3
+
+Home: https://www.curseforge.com/minecraft/mc-mods/apples-carrots-forge
+'''
+
+[[dependencies.apples]]
+    modId="forge"
+    mandatory=true
+    versionRange="[37,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.apples]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1,1.18)"
+    ordering="NONE"
+    side="BOTH"
